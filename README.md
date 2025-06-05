@@ -1,19 +1,18 @@
-# Waste MAnegement
+# Flutter Practice Files
 
-A new Flutter project created with FlutLab - https://flutlab.io
+I do not have a well compatible machine so am practicing my flutter skills with an online virtual machine called - https://flutlab.io
 
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+#This is a link to a very helpfull playlist to learning flutter
 
-For help getting started with Flutter, view our
+   -https://www.youtube.com/watch?v=zNZvuP8h1vs&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=16
+
+
+
+For help getting started with Flutter view tutorials from
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
